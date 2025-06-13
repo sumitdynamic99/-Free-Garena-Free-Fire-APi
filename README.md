@@ -60,8 +60,8 @@ https://dynamicearner-garena-free-name-finder-api.onrender.com/fetch?region=ind&
 📍 Region Options: ind , etc.
 📍 UID: Any Free Fire player ID
 
-💡 Want a simple web page where users can enter their UID and instantly see the results?
-I can build that too — just let me know!
+**💡 Want a simple web page where users can enter their UID and instantly see the results?
+**I can build that too — just let me know!
 
 — Sumit (Dynamic Earner)
 🌐 https://web.dynamicEarner.org
